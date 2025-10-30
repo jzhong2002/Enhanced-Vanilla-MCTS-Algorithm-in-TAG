@@ -1,0 +1,138 @@
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 150, GamesPerMatchup: 150
+sushigo_RHEA_Player got 95.00 points. sushigo_RHEA_Player won 62.7% of the 150 games of the tournament. sushigo_RHEA_Player won 62.7% of the 150 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 54.05.
+sushigo_RHEA_Player won 62.7% of the 150 games against BasicMCTS.
+
+BasicMCTS got 55.00 points. BasicMCTS won 36.0% of the 150 games of the tournament. BasicMCTS won 36.0% of the 150 games it played during the tournament.
+BasicMCTS got a mean score of 50.54.
+BasicMCTS won 36.0% of the 150 games against sushigo_RHEA_Player.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+sushigo_RHEA_Player: Win rate 0.63 +/- 0.039	Mean Ordinal 1.36 +/- 0.04
+BasicMCTS: Win rate 0.37 +/- 0.039	Mean Ordinal 1.63 +/- 0.04
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 150, GamesPerMatchup: 75
+sushigo_RHEA_Player got 55.00 points. sushigo_RHEA_Player won 36.7% of the 150 games of the tournament. sushigo_RHEA_Player won 36.7% of the 150 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 56.17.
+sushigo_RHEA_Player won 36.7% of the 150 games against BasicMCTS.
+
+BasicMCTS got 95.00 points. BasicMCTS won 63.3% of the 150 games of the tournament. BasicMCTS won 63.3% of the 150 games it played during the tournament.
+BasicMCTS got a mean score of 59.10.
+BasicMCTS won 63.3% of the 150 games against sushigo_RHEA_Player.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.63 +/- 0.039	Mean Ordinal 1.37 +/- 0.04
+sushigo_RHEA_Player: Win rate 0.37 +/- 0.039	Mean Ordinal 1.63 +/- 0.04
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 150, GamesPerMatchup: 75
+sushigo_RHEA_Player got 49.50 points. sushigo_RHEA_Player won 32.7% of the 150 games of the tournament. sushigo_RHEA_Player won 32.7% of the 150 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 55.68.
+sushigo_RHEA_Player won 32.7% of the 150 games against BasicMCTS.
+
+BasicMCTS got 100.50 points. BasicMCTS won 66.7% of the 150 games of the tournament. BasicMCTS won 66.7% of the 150 games it played during the tournament.
+BasicMCTS got a mean score of 60.03.
+BasicMCTS won 66.7% of the 150 games against sushigo_RHEA_Player.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.67 +/- 0.038	Mean Ordinal 1.33 +/- 0.04
+sushigo_RHEA_Player: Win rate 0.33 +/- 0.038	Mean Ordinal 1.67 +/- 0.04
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 150, GamesPerMatchup: 75
+sushigo_RHEA_Player got 41.00 points. sushigo_RHEA_Player won 27.3% of the 150 games of the tournament. sushigo_RHEA_Player won 27.3% of the 150 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 54.92.
+sushigo_RHEA_Player won 27.3% of the 150 games against BasicMCTS.
+
+BasicMCTS got 109.00 points. BasicMCTS won 72.7% of the 150 games of the tournament. BasicMCTS won 72.7% of the 150 games it played during the tournament.
+BasicMCTS got a mean score of 60.85.
+BasicMCTS won 72.7% of the 150 games against sushigo_RHEA_Player.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.73 +/- 0.036	Mean Ordinal 1.27 +/- 0.04
+sushigo_RHEA_Player: Win rate 0.27 +/- 0.036	Mean Ordinal 1.73 +/- 0.04
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 150, GamesPerMatchup: 75
+sushigo_RHEA_Player got 39.00 points. sushigo_RHEA_Player won 26.0% of the 150 games of the tournament. sushigo_RHEA_Player won 26.0% of the 150 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 55.64.
+sushigo_RHEA_Player won 26.0% of the 150 games against BasicMCTS.
+
+BasicMCTS got 111.00 points. BasicMCTS won 74.0% of the 150 games of the tournament. BasicMCTS won 74.0% of the 150 games it played during the tournament.
+BasicMCTS got a mean score of 60.01.
+BasicMCTS won 74.0% of the 150 games against sushigo_RHEA_Player.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.74 +/- 0.036	Mean Ordinal 1.26 +/- 0.04
+sushigo_RHEA_Player: Win rate 0.26 +/- 0.036	Mean Ordinal 1.74 +/- 0.04
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 150, GamesPerMatchup: 75
+sushigo_RHEA_Player got 43.00 points. sushigo_RHEA_Player won 28.7% of the 150 games of the tournament. sushigo_RHEA_Player won 28.7% of the 150 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 55.19.
+sushigo_RHEA_Player won 28.7% of the 150 games against BasicMCTS.
+
+BasicMCTS got 107.00 points. BasicMCTS won 71.3% of the 150 games of the tournament. BasicMCTS won 71.3% of the 150 games it played during the tournament.
+BasicMCTS got a mean score of 60.91.
+BasicMCTS won 71.3% of the 150 games against sushigo_RHEA_Player.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.71 +/- 0.037	Mean Ordinal 1.29 +/- 0.04
+sushigo_RHEA_Player: Win rate 0.29 +/- 0.037	Mean Ordinal 1.71 +/- 0.04
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+sushigo_RHEA_Player got 23.00 points. sushigo_RHEA_Player won 23.0% of the 100 games of the tournament. sushigo_RHEA_Player won 23.0% of the 100 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 53.90.
+sushigo_RHEA_Player won 23.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 77.00 points. BasicMCTS won 77.0% of the 100 games of the tournament. BasicMCTS won 77.0% of the 100 games it played during the tournament.
+BasicMCTS got a mean score of 61.26.
+BasicMCTS won 77.0% of the 100 games against sushigo_RHEA_Player.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.77 +/- 0.042	Mean Ordinal 1.23 +/- 0.04
+sushigo_RHEA_Player: Win rate 0.23 +/- 0.042	Mean Ordinal 1.77 +/- 0.04
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+sushigo_RHEA_Player got 30.00 points. sushigo_RHEA_Player won 30.0% of the 100 games of the tournament. sushigo_RHEA_Player won 30.0% of the 100 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 54.89.
+sushigo_RHEA_Player won 30.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 70.00 points. BasicMCTS won 70.0% of the 100 games of the tournament. BasicMCTS won 70.0% of the 100 games it played during the tournament.
+BasicMCTS got a mean score of 59.12.
+BasicMCTS won 70.0% of the 100 games against sushigo_RHEA_Player.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.70 +/- 0.046	Mean Ordinal 1.30 +/- 0.05
+sushigo_RHEA_Player: Win rate 0.30 +/- 0.046	Mean Ordinal 1.70 +/- 0.05
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 96, GamesPerMatchup: 16
+sushigo_RHEA_Player got 18.50 points. sushigo_RHEA_Player won 18.8% of the 96 games of the tournament. sushigo_RHEA_Player won 18.8% of the 96 games it played during the tournament.
+sushigo_RHEA_Player got a mean score of 40.89.
+sushigo_RHEA_Player won 18.8% of the 96 games against  Improved BasicMCTS.
+sushigo_RHEA_Player won 18.8% of the 96 games against  BasicMCTS.
+
+ Improved BasicMCTS got 70.50 points.  Improved BasicMCTS won 72.9% of the 96 games of the tournament.  Improved BasicMCTS won 72.9% of the 96 games it played during the tournament.
+ Improved BasicMCTS got a mean score of 50.02.
+ Improved BasicMCTS won 72.9% of the 96 games against sushigo_RHEA_Player.
+ Improved BasicMCTS won 72.9% of the 96 games against  BasicMCTS.
+
+ BasicMCTS got 7.00 points.  BasicMCTS won 7.3% of the 96 games of the tournament.  BasicMCTS won 7.3% of the 96 games it played during the tournament.
+ BasicMCTS got a mean score of 35.85.
+ BasicMCTS won 7.3% of the 96 games against sushigo_RHEA_Player.
+ BasicMCTS won 7.3% of the 96 games against  Improved BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+ Improved BasicMCTS: Win rate 0.73 +/- 0.045	Mean Ordinal 1.31 +/- 0.06
+sushigo_RHEA_Player: Win rate 0.19 +/- 0.040	Mean Ordinal 2.09 +/- 0.07
+ BasicMCTS: Win rate 0.07 +/- 0.027	Mean Ordinal 2.57 +/- 0.06
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 150, GamesPerMatchup: 75
+ Improved BasicMCTS got 136.00 points.  Improved BasicMCTS won 90.7% of the 150 games of the tournament.  Improved BasicMCTS won 90.7% of the 150 games it played during the tournament.
+ Improved BasicMCTS got a mean score of 58.73.
+ Improved BasicMCTS won 90.7% of the 150 games against  BasicMCTS.
+
+ BasicMCTS got 14.00 points.  BasicMCTS won 9.3% of the 150 games of the tournament.  BasicMCTS won 9.3% of the 150 games it played during the tournament.
+ BasicMCTS got a mean score of 46.90.
+ BasicMCTS won 9.3% of the 150 games against  Improved BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+ Improved BasicMCTS: Win rate 0.91 +/- 0.024	Mean Ordinal 1.09 +/- 0.02
+ BasicMCTS: Win rate 0.09 +/- 0.024	Mean Ordinal 1.91 +/- 0.02
+
